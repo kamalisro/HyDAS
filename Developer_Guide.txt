@@ -1,0 +1,19 @@
+Using the Viewer(Prerequisites)::
+
+#1:
+Install the following set of Python Libraries for Normal functioning of the Viewer::
+	1)PIL Lib
+	2)PyQt4
+	3)spectral python
+	4)numpy
+	5)osgeo(gdal, osr)
+	6)pyqtgraph
+
+
+#2:
+Set the Paths for 'Icons', 'Bands' and 'DispImage' Folders in the FolderPaths.py File if this Viewer Folder is kept in a Folder other than
+	--> 'C:\'
+
+#3:
+To start the Viewer:
+	->Double Click on 'GUI-Final.py' which will open the main window for thee viewer.
